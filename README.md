@@ -10,7 +10,7 @@ same excel will get updated with EMI amount.
 java -jar emi_excel_updator.jar /Volumes/work/emi_updator.xls
 
 ### required content of the Excel
-index 0 : any identity 
+index 0 : any identity \n
 index 1 : Principal Amount 
 index 2 : Interest Rate
 index 3 : Interest Start Date
